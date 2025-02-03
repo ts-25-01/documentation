@@ -47,6 +47,7 @@ Struktogramme (Nassi-Shneiderman-Diagramme) sind eine Möglichkeit, Algorithmen 
 - Verzweigungen (z.B. "Wenn-Dann-Sonst")
 
 - Schleifen (z.B. "Solange-Wiederholen")
+```markdown
 +----------------+
 | Bedingung      |
 +----------------+
@@ -54,7 +55,7 @@ Struktogramme (Nassi-Shneiderman-Diagramme) sind eine Möglichkeit, Algorithmen 
 +-------+  +-------+
 | Aktion |  | Aktion |
 +-------+  +-------+
-
+```
 ### Blockly Games
 ```markdown
   [Wiederhole 5 mal]
