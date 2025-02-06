@@ -1,2 +1,2 @@
 ## Jupyter Notebooks
-- [Datentypen](https://github.com/ts-25-01/documentation/blob/main/module01/1.4.algorithms_basic/datatypes.ipynb)
+- [Datentypen](https://github.com/ts-25-01/documentation/blob/main/module01/1.4.algorithms_basic/python/datatypes.ipynb)
